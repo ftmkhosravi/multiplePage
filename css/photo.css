@@ -1,0 +1,19 @@
+body{
+    max-width: 70%;
+    background-color: rgb(198, 198, 231);
+    margin: 30px auto;
+}
+h1{
+    text-align: center;
+}
+img{
+    margin: 20px auto;
+    width: 100%;
+}
+.links-menu{
+    text-align: center;
+}
+.links-menu a{
+    margin-left: 15px;
+    margin-top: 20px;
+}
